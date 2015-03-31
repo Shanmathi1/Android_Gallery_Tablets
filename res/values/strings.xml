@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project_Three</string>
+    <string-array name="Titles">
+        <item>Flowers</item>
+        <item>Cities</item>
+        <item>Animals</item>
+    </string-array>
+    <string-array name="Details">
+        <item>http://cdn.superbwallpapers.com/wallpapers/flowers/cherry-blossoms-21621-200x125.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/flowers/red-tulips-40363-400x250.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/flowers/orchids-34121-400x250.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/flowers/sunflowers-40004-200x125.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/flowers/lily-of-the-nile-22337-200x125.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/flowers/pink-chrysanthemum-40133-200x125.jpg</item>
+        <item>http://www.burgessyachts.com/media/adminforms/locations/n/e/new_york_1.jpg,
+            http://www.burgessyachts.com/media/adminforms/locations/l/o/london_2.jpg,
+            http://www.burgessyachts.com/media/adminforms/locations/s/e/seattle_1.jpg,
+            http://www.burgessyachts.com/media/adminforms/locations/t/o/tokyo_1_1.jpg,
+            http://www.burgessyachts.com/media/adminforms/locations/m/o/moscow_1.jpg,
+            http://www.burgessyachts.com/media/adminforms/locations/p/a/palma_2.jpg</item>
+        <item> http://cdn.superbwallpapers.com/wallpapers/animals/hyacinth-macaw-40090-200x125.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/animals/lion-10673-400x250.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/animals/pandas-35908-400x250.jpg,
+           http://cdn.superbwallpapers.com/wallpapers/animals/tiger-34593-200x125.jpg,
+           http://cdn.superbwallpapers.com/wallpapers/animals/wolf-33559-200x125.jpg,
+            http://cdn.superbwallpapers.com/wallpapers/animals/horse-33333-400x250.jpg</item>
+    </string-array>
+</resources>
